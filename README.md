@@ -43,18 +43,11 @@ The smart contract facilitates private token swaps and can be deployed on variou
 
 ## Project Deck
 
-For more details, refer to our [project deck](deck.pdf).
+For more details, refer to our [project deck](LockerSwap_Deck.pdf).
 
 ## Security
 
 Ensure proper security measures are taken before deploying the smart contract on any blockchain. Conduct thorough audits and follow best practices.
 
-## Contributing
-
-Contributions are welcome! Please follow the [contribution guidelines](CONTRIBUTING.md) before submitting pull requests.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
 
 
