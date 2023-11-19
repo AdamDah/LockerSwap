@@ -27,6 +27,7 @@ The smart contract facilitates private token swaps and can be deployed on variou
 
 ## Supported Chains
 
+- Celo 0x66dc1b08F8e19F81430b034218fce3dD7CF7F8E1
 - Gnosis
 - Arbitrum
 - Metamask
