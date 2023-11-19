@@ -30,7 +30,7 @@ The smart contract facilitates private token swaps and can be deployed on variou
 - Celo 0x66dc1b08F8e19F81430b034218fce3dD7CF7F8E1
 - Gnosis
 - Arbitrum 0xa543d823b4a15A5cfFfaBC7059c9c578AFBf31a9
-- Metamask
+- Metamask 0x04C89607413713Ec9775E14b954286519d836FEf
 - Chiliz
 - Scroll 0x5f3f1dBD7B74C6B46e8c44f98792A1dAf8d69154
 - Mantle
