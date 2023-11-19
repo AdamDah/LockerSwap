@@ -34,7 +34,7 @@ The smart contract facilitates private token swaps and can be deployed on variou
 - Gnosis
 - Arbitrum 0xa543d823b4a15A5cfFfaBC7059c9c578AFBf31a9
 - Metamask 0x04C89607413713Ec9775E14b954286519d836FEf
-- Chiliz RPC problems
+- Chiliz 0xECd8ACF54A8434069D73F98bF32d48E3A3AA5558
 - Scroll 0x5f3f1dBD7B74C6B46e8c44f98792A1dAf8d69154
 - Mantle 0xECd8ACF54A8434069D73F98bF32d48E3A3AA5558
 - ZkSync
