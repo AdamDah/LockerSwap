@@ -9,6 +9,7 @@ This project aims to create a secure and private way for users to execute token 
 
 ## Features
 
+- **Decentralized Frontend**: The frontend is hosted on BOS of Near and is fully decentralized.
 - **Private Swaps**: Utilize zk-SNARKs (zk-Bulletproofs) for confidential and private token transfers.
 - **Efficient Swaps**: Leverage the 1inch protocol for optimized and cost-effective token swaps.
 - **Cross-Chain Support**: Deploy the smart contract on multiple chains, including Gnosis, Arbitrum, Metamask, Chiliz, Scroll, Mantle, ZkSync, and Neon EVM.
