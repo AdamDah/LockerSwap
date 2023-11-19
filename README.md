@@ -32,7 +32,7 @@ The smart contract facilitates private token swaps and can be deployed on variou
 - Arbitrum 0xa543d823b4a15A5cfFfaBC7059c9c578AFBf31a9
 - Metamask
 - Chiliz
-- Scroll
+- Scroll 0x82e01223d51Eb87e16A03E24687EDF0F294da6f1
 - Mantle
 - ZkSync
 - Neon EVM
