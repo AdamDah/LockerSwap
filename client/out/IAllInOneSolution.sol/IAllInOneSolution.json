@@ -1,0 +1,158 @@
+{
+  "abi": [
+    {
+      "inputs": [],
+      "name": "completeWorkshop",
+      "outputs": [],
+      "stateMutability": "nonpayable",
+      "type": "function"
+    }
+  ],
+  "bytecode": {
+    "object": "0x",
+    "sourceMap": "",
+    "linkReferences": {}
+  },
+  "deployedBytecode": {
+    "object": "0x",
+    "sourceMap": "",
+    "linkReferences": {}
+  },
+  "methodIdentifiers": {
+    "completeWorkshop()": "59b4726c"
+  },
+  "rawMetadata": "{\"compiler\":{\"version\":\"0.8.21+commit.d9974bed\"},\"language\":\"Solidity\",\"output\":{\"abi\":[{\"inputs\":[],\"name\":\"completeWorkshop\",\"outputs\":[],\"stateMutability\":\"nonpayable\",\"type\":\"function\"}],\"devdoc\":{\"kind\":\"dev\",\"methods\":{},\"version\":1},\"userdoc\":{\"kind\":\"user\",\"methods\":{},\"version\":1}},\"settings\":{\"compilationTarget\":{\"src/IAllInOneSolution.sol\":\"IAllInOneSolution\"},\"evmVersion\":\"paris\",\"libraries\":{},\"metadata\":{\"bytecodeHash\":\"ipfs\"},\"optimizer\":{\"enabled\":true,\"runs\":200},\"remappings\":[\":@openzeppelin/contracts/=lib/openzeppelin-contracts/contracts/\",\":ds-test/=lib/forge-std/lib/ds-test/src/\",\":erc4626-tests/=lib/openzeppelin-contracts/lib/erc4626-tests/\",\":forge-std/=lib/forge-std/src/\",\":openzeppelin-contracts/=lib/openzeppelin-contracts/\"]},\"sources\":{\"src/IAllInOneSolution.sol\":{\"keccak256\":\"0x2cbef29fe280a4aad3a0220046029a928ec8117bc2bf69a494c8437b2a63f604\",\"license\":\"MIT\",\"urls\":[\"bzz-raw://b8fde29e7703df760fe814a8128f870b08f380675a9a043c14c35a1e9aed2688\",\"dweb:/ipfs/QmeASeXu6NVY3yG4GiCRYPT3RK2LWJE62jCSe6bHGKzrhH\"]}},\"version\":1}",
+  "metadata": {
+    "compiler": {
+      "version": "0.8.21+commit.d9974bed"
+    },
+    "language": "Solidity",
+    "output": {
+      "abi": [
+        {
+          "inputs": [],
+          "stateMutability": "nonpayable",
+          "type": "function",
+          "name": "completeWorkshop"
+        }
+      ],
+      "devdoc": {
+        "kind": "dev",
+        "methods": {},
+        "version": 1
+      },
+      "userdoc": {
+        "kind": "user",
+        "methods": {},
+        "version": 1
+      }
+    },
+    "settings": {
+      "remappings": [
+        "@openzeppelin/contracts/=lib/openzeppelin-contracts/contracts/",
+        "ds-test/=lib/forge-std/lib/ds-test/src/",
+        "erc4626-tests/=lib/openzeppelin-contracts/lib/erc4626-tests/",
+        "forge-std/=lib/forge-std/src/",
+        "openzeppelin-contracts/=lib/openzeppelin-contracts/"
+      ],
+      "optimizer": {
+        "enabled": true,
+        "runs": 200
+      },
+      "metadata": {
+        "bytecodeHash": "ipfs"
+      },
+      "compilationTarget": {
+        "src/IAllInOneSolution.sol": "IAllInOneSolution"
+      },
+      "libraries": {}
+    },
+    "sources": {
+      "src/IAllInOneSolution.sol": {
+        "keccak256": "0x2cbef29fe280a4aad3a0220046029a928ec8117bc2bf69a494c8437b2a63f604",
+        "urls": [
+          "bzz-raw://b8fde29e7703df760fe814a8128f870b08f380675a9a043c14c35a1e9aed2688",
+          "dweb:/ipfs/QmeASeXu6NVY3yG4GiCRYPT3RK2LWJE62jCSe6bHGKzrhH"
+        ],
+        "license": "MIT"
+      }
+    },
+    "version": 1
+  },
+  "ast": {
+    "absolutePath": "src/IAllInOneSolution.sol",
+    "id": 41603,
+    "exportedSymbols": {
+      "IAllInOneSolution": [
+        41602
+      ]
+    },
+    "nodeType": "SourceUnit",
+    "src": "33:107:22",
+    "nodes": [
+      {
+        "id": 41598,
+        "nodeType": "PragmaDirective",
+        "src": "33:23:22",
+        "nodes": [],
+        "literals": [
+          "solidity",
+          "^",
+          "0.8",
+          ".9"
+        ]
+      },
+      {
+        "id": 41602,
+        "nodeType": "ContractDefinition",
+        "src": "62:76:22",
+        "nodes": [
+          {
+            "id": 41601,
+            "nodeType": "FunctionDefinition",
+            "src": "96:37:22",
+            "nodes": [],
+            "functionSelector": "59b4726c",
+            "implemented": false,
+            "kind": "function",
+            "modifiers": [],
+            "name": "completeWorkshop",
+            "nameLocation": "105:16:22",
+            "parameters": {
+              "id": 41599,
+              "nodeType": "ParameterList",
+              "parameters": [],
+              "src": "121:2:22"
+            },
+            "returnParameters": {
+              "id": 41600,
+              "nodeType": "ParameterList",
+              "parameters": [],
+              "src": "132:0:22"
+            },
+            "scope": 41602,
+            "stateMutability": "nonpayable",
+            "virtual": false,
+            "visibility": "external"
+          }
+        ],
+        "abstract": false,
+        "baseContracts": [],
+        "canonicalName": "IAllInOneSolution",
+        "contractDependencies": [],
+        "contractKind": "interface",
+        "fullyImplemented": false,
+        "linearizedBaseContracts": [
+          41602
+        ],
+        "name": "IAllInOneSolution",
+        "nameLocation": "72:17:22",
+        "scope": 41603,
+        "usedErrors": [],
+        "usedEvents": []
+      }
+    ],
+    "license": "MIT"
+  },
+  "id": 22
+}
