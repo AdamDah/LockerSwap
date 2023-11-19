@@ -25,6 +25,9 @@ The smart contract facilitates private token swaps and can be deployed on variou
 3. **Efficient Execution**: Utilizes 1inch protocol for efficient and optimized token swaps.
 4. **Cross-Chain Implementation**: Deploy the smart contract on supported blockchains for cross-chain swaps.
 
+##BOS Component
+[Decentralized Frontend](https://near.org/d46f94a8c5c545b43681c90edee1093fe2480484d708195bd465243a60e28002/widget/NestedProps)
+
 ## Supported Chains
 
 - Celo 0x66dc1b08F8e19F81430b034218fce3dD7CF7F8E1
